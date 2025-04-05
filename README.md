@@ -9,7 +9,7 @@ A simple clone of the classic Flappy Bird game built using Python and Pygame.
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/nickagesa/Cosmic_Duel.git
+   git clone https://github.com/nickagesa/Flappy_Bird.git
    cd Cosmic-Duel
 
 2. **Install Dependencies**:
