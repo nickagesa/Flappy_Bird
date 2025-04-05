@@ -16,7 +16,7 @@ A simple clone of the classic Flappy Bird game built using Python and Pygame.
    ```sh
    pip install -r requirements.txt
 
-3. **Run the Game:**:
+3. **Run the Game**:
    ```sh
    python main.py
 
